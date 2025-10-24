@@ -1,0 +1,2 @@
+# TodoListStudyDemo
+简单的golang练习项目，备忘录的登陆注册以及CRUD
